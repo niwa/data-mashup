@@ -7,4 +7,4 @@ data from NIWA Data.
 
 ##What is NIWA Data?
 NIWA Data gives instant access to current and historical climate data from NIWA’s network of over 300 monitoring stations located throughout the country, and over 11,000 ‘virtual’ climate stations located on a grid covering the entire New Zealand area.
-To get started, follow this link [NIWA Data](https://data.niwa.co.nz)
+To get started, follow this link [NIWA Data](https://data.niwa.co.nz).

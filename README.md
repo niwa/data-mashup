@@ -2,7 +2,7 @@
 
 Welcome to the NIWA Data Mashup repository.
 
-In this repository you can find a collection of scripts written in Python, R and VBA(for MExcel) showing how to mashup
+In this repository you can find a collection of scripts written in Python, R and VBA(for MS Excel) showing how to mashup
 data from NIWA Data.
 
 ##What is NIWA Data?

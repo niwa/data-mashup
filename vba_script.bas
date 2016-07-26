@@ -1,3 +1,8 @@
+' VBA Script for getting data from NIWA data into an Excel worksheet
+'
+' Requires https://github.com/VBA-tools/VBA-JSON/blob/b6108e88f956f36397fe82cd805233898e734a73/JsonConverter.bas
+' to convert JSON file to Dictionary object
+
 Public Sub ReadJsonURL()
     Set MyRequest = CreateObject("WinHttp.WinHTTPRequest.5.1")
     MyRequest.Open "GET", "URL goes here", True

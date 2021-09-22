@@ -1,3 +1,6 @@
+NIWAData has been deprecated. All requests should should go to mintaka.niwa.co.nz instead. See the [Swagger documentation](https://mintaka.niwa.co.nz/rest/api/swagger.json)
+
+
 # NIWAData Mashup
 
 Welcome to the NIWAData Mashup repository.
